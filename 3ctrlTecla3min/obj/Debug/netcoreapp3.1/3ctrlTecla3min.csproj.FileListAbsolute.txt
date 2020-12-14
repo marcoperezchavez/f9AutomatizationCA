@@ -1,0 +1,12 @@
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.exe
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.deps.json
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.runtimeconfig.json
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.runtimeconfig.dev.json
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.dll
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\bin\Debug\netcoreapp3.1\3ctrlTecla3min.pdb
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.AssemblyInfoInputs.cache
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.AssemblyInfo.cs
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.csproj.CoreCompileInputs.cache
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.dll
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.pdb
+C:\Users\Marco Perez\Documents\rep\3ctrlTecla3min\3ctrlTecla3min\obj\Debug\netcoreapp3.1\3ctrlTecla3min.genruntimeconfig.cache
