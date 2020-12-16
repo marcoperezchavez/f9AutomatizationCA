@@ -19,7 +19,7 @@ namespace _3ctrlTecla3min
             for (int i = 0; i < 1000; i++)
             {
                 Console.WriteLine($"Ciclo {i+1}");
-                Thread.Sleep(30000);
+                Thread.Sleep(300000);
                 SendKeys.SendWait("{F9}");
                 SendKeys.SendWait("{F9}");
             }
